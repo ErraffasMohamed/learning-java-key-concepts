@@ -15,7 +15,7 @@ Welcome to the **Java Key Concepts** repository! This collection of examples is 
 To explore the examples in this repository:
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/java-key-concepts.git
+   https://github.com/ErraffasMohamed/learning-java-key-concepts
    ```
 2. Import the project into your favorite IDE (e.g., IntelliJ IDEA, Eclipse).
 3. Navigate to each concept folder to find the example code and documentation.
