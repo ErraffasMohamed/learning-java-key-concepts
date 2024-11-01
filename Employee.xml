@@ -1,0 +1,12 @@
+<Employees>
+  <Employee>
+    <id>1</id>
+    <name>anas</name>
+    <salary>14000.0</salary>
+  </Employee>
+  <Employee>
+    <id>2</id>
+    <name>med</name>
+    <salary>13000.0</salary>
+  </Employee>
+</Employees>

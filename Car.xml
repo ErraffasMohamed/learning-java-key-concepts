@@ -1,0 +1,22 @@
+<Cars>
+  <Car>
+    <make>bmw</make>
+    <model>model 1</model>
+    <year>2022</year>
+    <engine>
+      <name>engine1</name>
+      <power>300</power>
+      <speed>200</speed>
+    </engine>
+  </Car>
+  <Car>
+    <make>mercedes</make>
+    <model>model 2</model>
+    <year>2020</year>
+    <engine>
+      <name>engine1</name>
+      <power>300</power>
+      <speed>200</speed>
+    </engine>
+  </Car>
+</Cars>
